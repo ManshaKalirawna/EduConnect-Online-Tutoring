@@ -1,6 +1,11 @@
-# EduConnect - Online Tutoring
+About This Project
 
-EduConnect is a platform connecting students with tutors for both online and in-person classes. This project contains the web app and database for managing tutors, students, and courses efficiently.
+EduConnect is an online tutoring platform that connects students with tutors for both in-person and virtual classes. I designed and implemented the database schema, developed the main backend functionality, and built the front-end interface to ensure a smooth user experience.
+
+Contributors
+
+While I led the project and handled the core features, I collaborated with Yugam Arora
+ on certain modules, such as [specific feature, e.g., “the scheduling system”]. This collaboration helped enhance the project’s functionality and reliability.
 
 ## Features
 - Student and tutor registration
@@ -17,7 +22,8 @@ EduConnect is a platform connecting students with tutors for both online and in-
 ## Database Schema
 This screenshot shows the tables and relationships in the EduConnect database:
 
-![Database Schema](SQL%20command/database%20design.png)
+![Database Schema](database_design.png)
+
 
 
 
