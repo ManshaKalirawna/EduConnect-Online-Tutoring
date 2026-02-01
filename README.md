@@ -17,5 +17,5 @@ EduConnect is a platform connecting students with tutors for both online and in-
 ## Database Schema
 This screenshot shows the tables and relationships in the EduConnect database:
 
-![Database Schema](database_design.png)
+![Database Schema](database%20design.png)
 
