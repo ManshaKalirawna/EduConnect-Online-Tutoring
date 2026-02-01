@@ -15,14 +15,22 @@ While I led the project and handled the core features, I collaborated with Yugam
 
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/ManshaKalirawna/EduConnect-Online-Tutoring.git`
-2. Install dependencies
-3. Run the app locally
+
+Clone the repo:  
+git clone https://github.com/ManshaKalirawna/EduConnect-Online-Tutoring.git
+
+Install dependencies:  
+npm install
+
+Run the app locally:  
+npm start
 
 ## Database Schema
+
 This screenshot shows the tables and relationships in the EduConnect database:
 
-![Database Schema](database_design.png)
+![EduConnect Database Schema](Database_Design.png)
+
 
 
 
