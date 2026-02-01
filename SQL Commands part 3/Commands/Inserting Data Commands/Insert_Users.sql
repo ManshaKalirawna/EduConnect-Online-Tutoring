@@ -1,0 +1,23 @@
+INSERT INTO Users (UserID, FirstName, LastName, Email, Password, PhoneNumber, UserType, RegistrationDate)
+VALUES 
+(1001, 'Stuart', 'Little', 'stuart.l@email.com', 'hashed_pw1', '1234567890', 'Student', '2025-03-01'),
+(1003, 'Liam', 'Dalal', 'liam.d@email.com', 'hashed_pw3', '1234567892', 'Student', '2025-03-03'),
+(1005, 'Raja', 'Gujjar', 'raja.g@email.com', 'hashed_pw5', '1234567894', 'Student', '2025-03-05'),
+(1007, 'Isabella', 'Kalia', 'isabella.k@email.com', 'hashed_pw7', '1234567896', 'Student', '2025-03-07'),
+(1009, 'Rohan', 'Fernandez', 'rohan.f@email.com', 'hashed_pw9', '1234567898', 'Student', '2025-03-09'),
+(1011, 'Amelia', 'Lopez', 'amelia.l@email.com', 'hashed_pw11', '1234567800', 'Student', '2025-03-11'),
+(1013, 'Salman', 'Khan', 'salman.k@email.com', 'hashed_pw13', '1234567802', 'Student', '2025-03-13'),
+(2002, 'Emma', 'Watson', 'emma.watson@email.com', 'hashed_pw2', '1234567891', 'Tutor', '2025-03-02'),
+(2004, 'Sophia', 'Williams', 'sophia.w@email.com', 'hashed_pw4', '1234567893', 'Tutor', '2025-03-04'),
+(2006, 'James', 'Choudhary', 'james.c@email.com', 'hashed_pw6', '1234567895', 'Tutor', '2025-03-06'),
+(2008, 'Ethan', 'Gupta', 'ethan.g@email.com', 'hashed_pw8', '1234567897', 'Tutor', '2025-03-08'),
+(2010, 'Benjamin', 'Patel', 'ben.p@email.com', 'hashed_pw10', '1234567899', 'Tutor', '2025-03-10'),
+(2012, 'Lucas', 'Brown', 'lucas.b@email.com', 'hashed_pw12', '1234567801', 'Tutor', '2025-03-12'),
+(1015, 'Johhny', 'Bhatt', 'johhny.b@email.com', 'hashed_pw13', '1562486495', 'Student', '2025-03-20'),
+(1017, 'Rahul', 'Gandhi', 'rahul.g@email.com', 'hashed_pw14', '3451967345', 'Student', '2025-02-11'),
+(1019, 'Narendra', 'Modi', 'narendra.m@email.com', 'hashed_pw15', '1425589638', 'Student', '2025-02-01'),
+(1021, 'Arvind', 'Kejriwal', 'arvind.k@email.com', 'hashed_pw16', '1244587596', 'Student', '2025-03-01'),
+(2014, 'Mark', 'Kumar', 'mark.k@email.com', 'hashed_pw17', '1325694521', 'Tutor', '2025-03-19'),
+(2016, 'Justin', 'Trader', 'justin.t@email.com', 'hashed_pw18', '1295643815', 'Tutor', '2025-03-13'),
+(2018, 'Peter', 'Parker', 'peter.p@email.com', 'hashed_pw9', '1326487596', 'Tutor', '2025-03-01'),
+(2020, 'Sheru', 'Gada', 'sheru.g@email.com', 'hashed_pw20', '1250346285', 'Tutor', '2025-03-03');

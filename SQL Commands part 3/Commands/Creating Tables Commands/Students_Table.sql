@@ -1,0 +1,6 @@
+CREATE TABLE Students (
+    StudentID INT NOT NULL PRIMARY KEY,
+    GradeLevel VARCHAR(20) NOT NULL,
+    Objective VARCHAR(100) NOT NULL,
+    CONSTRAINT FK_Students_Users FOREIGN KEY (StudentID) REFERENCES Users(UserID)
+);
